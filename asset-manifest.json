@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-grocery-store/static/css/main.5d01cdb8.css",
+    "main.js": "/react-grocery-store/static/js/main.8c799f30.js",
+    "static/js/787.da21158d.chunk.js": "/react-grocery-store/static/js/787.da21158d.chunk.js",
+    "index.html": "/react-grocery-store/index.html",
+    "main.5d01cdb8.css.map": "/react-grocery-store/static/css/main.5d01cdb8.css.map",
+    "main.8c799f30.js.map": "/react-grocery-store/static/js/main.8c799f30.js.map",
+    "787.da21158d.chunk.js.map": "/react-grocery-store/static/js/787.da21158d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d01cdb8.css",
+    "static/js/main.8c799f30.js"
+  ]
+}
