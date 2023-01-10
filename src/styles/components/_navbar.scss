@@ -1,0 +1,45 @@
+.navbar_container {
+  background-color: $main;
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 20px;
+
+  h1 {
+    color: $navTitle;
+    transition: color 0.5s ease;
+  }
+
+  .navbar_icons_box {
+    display: flex;
+
+    .navbar_cart_icon {
+      align-self: center;
+      justify-content: center;
+    }
+  }
+
+  button {
+    border: none;
+    background-color: $main;
+    height: 50px;
+    width: 80px;
+    cursor: pointer;
+    color: $navTitle;
+    
+
+    .navbar_arrow_left {
+      margin-right: 5px;
+    }
+
+    span {
+      margin-left: 5px;
+      font-size: 20px;
+      font-weight: bold;
+    }
+
+    &:hover {
+      color: $navHover;
+      transition: color 0.5s ease;
+    }
+  }
+}
